@@ -15,9 +15,11 @@ In a landscape filled with CRM applications built for larger organizations, Trac
 - **Financial Reporting**: Simplify financial tracking and reporting for your business.
 - **Additional Features**: Filter and sort functionality for clients and projects, receive scheduled notifications, view project statistics, and more.
 
-## 🆚 Comparison With Existing Apps
+## 🎥 Demo
 
-Unlike complex and expensive CRM solutions such as Salesforce, TrackFolio offers a cost-effective, intuitive platform without the steep learning curve or high subscription fees. This makes it an ideal choice for small businesses and freelancers looking for an efficient project management tool.
+As of 2024, this mobile app is no longer available on the App/Play Store BUT you are more than welcome to view the <a href="https://www.figma.com/proto/ce90QjuFQqtkcfxaRj1Jfa/Interface-Design?page-id=51%3A111&type=design&node-id=52-1184&viewport=-804%2C464%2C0.33&t=Lo1vDmbdN4ElvoQs-1&scaling=scale-down&starting-point-node-id=52%3A1197&mode=design" target="_blank">Figma prototype here</a>.
+
+<img src="resources/trackfolio-thumbnail.png" alt="Screenshot of TrackFolio" title="Screenshot of TrackFolio" width="600"/>
 
 ## 🛠 Technologies Used
 
