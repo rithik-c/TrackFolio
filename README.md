@@ -38,7 +38,7 @@ To get a local copy up and running, follow these simple steps:
     ```bash
     cd Trackfolio
     ```
-3. Install any mobile emulator of your choice (i.e. XCode, Android Studio, etc) & then install dependencies as below:
+3. Install any mobile emulator of your choice (i.e. XCode IOS Simulator, Android Studio) & then install dependencies as below:
     ```sh
     flutter pub get
     ```
